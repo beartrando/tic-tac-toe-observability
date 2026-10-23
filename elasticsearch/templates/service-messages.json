@@ -1,0 +1,9 @@
+{
+  "index_patterns": ["service-messages"],
+  "template": {
+    "settings": {
+      "number_of_replicas": 0
+    }
+  },
+  "priority": 100
+}
