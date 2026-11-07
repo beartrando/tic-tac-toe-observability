@@ -1,5 +1,5 @@
 {
-  "uid": "ttt-overview",
+  "uid": "tic-tac-toe-overview",
   "title": "Tic-Tac-Toe — Service Overview",
   "tags": ["tic-tac-toe", "opentelemetry"],
   "timezone": "browser",
